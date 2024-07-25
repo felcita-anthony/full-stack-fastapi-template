@@ -1,5 +1,5 @@
 # Dockerfile
-FROM tiangolo/uvicorn-gunicorn-fastapi:python3.8
+FROM felcita-anthony/full-stack-fastapi-template:python3.8
 
 COPY . /app
 
